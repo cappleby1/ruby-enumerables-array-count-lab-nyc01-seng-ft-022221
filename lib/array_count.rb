@@ -5,7 +5,7 @@ def count_strings(array)
     element.string?
   end
   
-  return array
+  
   
 end
 
